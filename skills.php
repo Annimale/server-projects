@@ -18,7 +18,7 @@
             <li><b>Critical thinking:</b> I try to engage in introspection and self-examination to evaluate beliefs and behaviors. </li>
             <li><b>Slow learner:</b> Despite being a slow learner I'm actively seeking out books and resources for personal and intellectual growth.</li>
             <li><b>Time Management:</b> I usually prioritize tasks based on importance and deadlines.</li>
-            <li><b>Open-Mindedness:</b> I welcome new ideas and perspectives with curiosity and without immediate judgment.</li>
+            <li><b>Open-Mindedness:</b> I welcome new ideas and perspectives with curiosity and without immediate judgment</li>
             <li>
                 <b>E-mail:</b>
                 <a href="mailto:skrillexgamesdef@gmail.com">skrillexgamesdef@gmail.com</a>
