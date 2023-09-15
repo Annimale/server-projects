@@ -1,0 +1,41 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #f7f5fb;
+}
+.nav {
+  margin: 0px;
+  padding: 0px;
+}
+.nav ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #f9ab55;
+}
+.nav li {
+  float: left;
+}
+.nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.nav li i {
+  text-align: center;
+  margin-top: 30px;
+}
+.nav li a:hover {
+  background-color: #111;
+}
+
+h1 {
+  color: blue;
+}
+img {
+  width: 50px;
+  height: 50px;
+}
