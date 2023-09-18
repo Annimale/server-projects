@@ -22,8 +22,11 @@
                 <b>E-mail:</b>
                 <a href="mailto:skrillexgamesdef@gmail.com">skrillexgamesdef@gmail.com</a>
             </li>
-            <img src="MEDIA\IMG_20230114_145106.jpg" alt="Aivan Towers">
         </ul>
+    </div>
+
+    <div class="image">
+        <img src="MEDIA\IMG_20230114_145106.jpg" alt="Aivan Towers">
     </div>
 </body>
 <?php include_once('INC PHPs\footer.inc.php'); ?>
