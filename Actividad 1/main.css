@@ -1,9 +1,14 @@
 body {
   margin: 0px;
   padding: 0px;
-  background-color: #f7f5fb;
-
-  flex-direction: column;
+  background: rgb(249, 171, 85);
+  background: linear-gradient(
+    90deg,
+    rgba(249, 171, 85, 1) 0%,
+    rgba(245, 138, 7, 1) 77%,
+    rgba(247, 245, 251, 1) 100%
+  );
+  font-family: "Mooli", sans-serif;
 }
 .nav {
   margin: 0px;
@@ -35,16 +40,46 @@ body {
 }
 
 h1 {
-  color: blue;
+  font-size: 50px;
+  text-align: center;
+  color: #084887;
 }
 .data {
-  width: 50%; /* Establece el ancho del contenedor de datos */
-  margin-right: 20px;
+  font-size: 45px;
+  color: #084887;
+  display: flex;
+  margin-left: 20px;
 }
-.image {
-  width: 50%; /* Establece el ancho del contenedor de imagen */
-  float: right; /* Hace que la imagen flote a la derecha */
+.data ul {
+  flex: 1;
+  list-style: none;
 }
+.data li {
+  margin-top: 5px;
+}
+
 img {
+  border: 3px solid #f9ab55;
+  margin-right: 100px;
   float: right;
+  width: 550px;
+  height: 400px;
+}
+footer {
+  text-align: center;
+}
+.hobbies {
+  list-style: none;
+  color: #084887;
+  margin-left: 20px;
+}
+.skills ul {
+  list-style: none;
+  color: #084887;
+  margin-left: 20px;
+}
+.works {
+  list-style: none;
+  color: #084887;
+  margin-left: 20px;
 }

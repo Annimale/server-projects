@@ -25,5 +25,6 @@
         </ul>
     </div>
 </body>
+<?php include_once('INC PHPs\footer.inc.php'); ?>
 
 </html>
