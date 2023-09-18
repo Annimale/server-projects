@@ -13,13 +13,19 @@ body {
 .nav {
   margin: 0px;
   padding: 0px;
+  background: rgb(249, 171, 85);
+  background: linear-gradient(
+    90deg,
+    rgba(249, 171, 85, 1) 0%,
+    rgba(245, 138, 7, 1) 77%,
+    rgba(247, 245, 251, 1) 100%
+  );
 }
 .nav ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
   overflow: hidden;
-  background-color: #f9ab55;
 }
 .nav li {
   float: left;
