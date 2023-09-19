@@ -2,11 +2,11 @@
 <html lang="es">
 
 <head>
-    <?php include_once("INC PHPs\header.inc.php"); ?>
+    <?php include_once(__DIR__ . '\INC PHPs\header.inc.php'); ?>
 </head>
 
 <body>
-    <?php include_once('INC PHPs\nav.inc.php'); ?>
+    <?php include_once(__DIR__ . '\INC PHPs\nav.inc.php'); ?>
     <header>
         <h1>Personal data</h1>
     </header>
