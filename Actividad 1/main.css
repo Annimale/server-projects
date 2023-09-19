@@ -1,4 +1,5 @@
 body {
+  font-size: 20px;
   margin: 0px;
   padding: 0px;
   background: rgb(249, 171, 85);
@@ -72,20 +73,21 @@ img {
   height: 400px;
 }
 footer {
+  margin-top: 200px;
   text-align: center;
 }
 .hobbies {
-  list-style: none;
+  font-size: 25px;
   color: #084887;
   margin-left: 20px;
 }
 .skills ul {
-  list-style: none;
+  font-size: 25px;
   color: #084887;
   margin-left: 20px;
 }
 .works {
-  list-style: none;
+  font-size: 25px;
   color: #084887;
   margin-left: 20px;
 }

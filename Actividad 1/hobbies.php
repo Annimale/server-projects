@@ -13,11 +13,10 @@
 
     <div class="hobbies">
         <ul>
-            <li><b>Name:</b> Iván</li>
-            <li><b>Surnames:</b> Torres Marcos</li>
-            <li><b>Birth date:</b> 11th of May, 1998</li>
-            <li><b>Bizum:</b> 640 22 42 26</li>
-            <li><b>Place of birth:</b> Valencia</li>
+            <li><b>Nurture:</b> I love to be in everything that involves taking care of health (barefoot, light-exposure ...)</li>
+            <li><b>Reading:</b> It's one of my passports to new worlds, but I prefer to read non-fiction books</li>
+            <li><b>Music:</b> When I listen to music, I try to understand the meaning of every word, musical note ...</li>
+            <li><b>Try / Learn new things:</b> Currently I'm trying to follow a new Udemy course of musical composition with FL Studio</li>
 
         </ul>
     </div>

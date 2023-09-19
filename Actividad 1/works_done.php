@@ -18,10 +18,7 @@
             <li><b>Food delivery:</b> In 2022 I worked as a delivery rider for Uber Eats, but subcontracted by another company</li>
             <li><b>Biketrial teacher:</b> Since 2012 I worked as a biektrial teacher for the School Kabrabikes</li>
             <li><b>Sales commercial:</b> I've been working as a sales commercial person for 6-7 motnhs in a car dealer in Valencia</li>
-            <li>
-                <b>E-mail:</b>
-                <a href="mailto:skrillexgamesdef@gmail.com">skrillexgamesdef@gmail.com</a>
-            </li>
+
         </ul>
     </div>
 </body>
