@@ -6,6 +6,7 @@
 
 
 
+
 <?php
 echo ('<table border="1">');
 echo ('<tr style="background-color: blue;">'); // Primera fila en azul
@@ -36,25 +37,3 @@ echo ('</table>');
 
 
 
-/** Haz un programa para que el usuario juegue a adivinar un número.
-* Obtén un número al azar (busca por internet cómo se hace o simplemente guarda el número que quieras en una variable)
-* y ve pidiendo al usuario que introduzca un número.
-* Si es el que busca le dices que lo ha encontrado y si no le mostrarás si el número que busca el mayor o menor que el introducido.
-* El juego acaba cuando el usuario encuentra el número o cuando pulsa en 'Cancelar' (en ese caso le mostraremos un mensaje de que ha cancelado el juego).
-*/
-
-function adivinarNumero(){
-let generatedNumber = Math.floor(Math.random()*5) + 1;
-console.log(generatedNumber);
-let guessedNumber = 0;
-guessedNumber = prompt('Introduce un numero');
-console.log(guessedNumber);
-
-if (guessedNumber != generatedNumber) {
-if (guessedNumber < generatedNumber) { guessedNumber=prompt('El numero es mayor que el que has introducido! vuelve a intentarlo'); } else { guessedNumber=prompt('El numero es menor que el que has introducido! vuelve a intentarlo'); } } else { alert('Correcto! el numero era '+generatedNumber);
-    }
-    
-    alert(' Correcto! el numero era '+generatedNumber);
-}
-
-adivinarNumero();
