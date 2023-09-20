@@ -24,7 +24,7 @@
 <?php
 echo ('<table border="1">');
 echo ('<tr>'); //Empezamos las filas
-echo ('<td>x</td>'); //Adimos la x
+echo ('<td>X</td>'); //Adimos la x
 
 for ($i = 1; $i <= 10; $i++) { //Esto es para meter una primera fila al principio
     echo ('<td>' . $i . '</td>');
