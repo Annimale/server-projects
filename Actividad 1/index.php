@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
+/**
+* Autor: Ivan Torres Marcos
+* Versión: 2.0
+* Descripción: Portfolio supremo.
+*/
+
 
 <head>
     <?php include_once(__DIR__ . '\INC PHPs\header.inc.php'); ?>
