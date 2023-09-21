@@ -1,10 +1,13 @@
+<?php
+
+/**
+ * @author Ivan Torres Marcos 
+ * @version V2.0
+ * 
+ */ ?>
 <!DOCTYPE html>
 <html lang="es">
-/**
-* Autor: Ivan Torres Marcos
-* Versión: 2.0
-* Descripción: Portfolio supremo.
-*/
+
 
 
 <head>
@@ -29,7 +32,7 @@
                 <a href="mailto:skrillexgamesdef@gmail.com">skrillexgamesdef@gmail.com</a>
             </li>
         </ul>
-        <img src="MEDIA\IMG_20230114_145106.jpg" alt="IvanPhoto"> //Img added
+        <img src="MEDIA\IMG_20230114_145106.jpg" alt="IvanPhoto">
 
     </div>
 

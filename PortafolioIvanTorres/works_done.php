@@ -1,13 +1,3 @@
-/**
-Author:Ivan Torres Marcos;
-Version:V1.9;
-
-*/
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="es">
 
