@@ -16,7 +16,7 @@
     <header>
         <h1>Personal data</h1>
     </header>
-
+    <!-- Data for personal data -->
     <div class="data">
         <ul>
             <li><b>Name:</b> Iván</li>
@@ -34,6 +34,7 @@
     </div>
 
 </body>
-<?php include_once('INC PHPs\footer.inc.php'); ?>
+<!--Gotta change the footer path -->
+<?php include_once(__DIR__ . '\INC PHPs\footer.inc.php'); ?>
 
 </html>

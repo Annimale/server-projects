@@ -10,6 +10,7 @@
     <header>
         <h1>Hobbies</h1>
     </header>
+    <!-- Data for hobbies -->
 
     <div class="hobbies">
         <ul>
@@ -21,6 +22,7 @@
         </ul>
     </div>
 </body>
-<?php include_once('INC PHPs\footer.inc.php'); ?>
+<!--Gotta change the footer path -->
+<?php include_once(__DIR__ . '\INC PHPs\footer.inc.php'); ?>
 
 </html>

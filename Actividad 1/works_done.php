@@ -1,3 +1,13 @@
+/**
+Author:Ivan Torres Marcos;
+Version:V1.9;
+
+*/
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="es">
 
@@ -10,7 +20,7 @@
     <header>
         <h1>Different jobs I have worked on</h1>
     </header>
-
+    <!-- Data for works i've done -->
     <div class="works">
         <ul>
             <li><b>Personal trainer:</b> In 2019, along with a few colleagues,I started my own personal trainer brand,Annimal Team</li>
@@ -22,6 +32,7 @@
         </ul>
     </div>
 </body>
-<?php include_once('INC PHPs\footer.inc.php'); ?>
+<!--Gotta change the footer path -->
+<?php include_once(__DIR__ . '\INC PHPs\footer.inc.php'); ?>
 
 </html>
